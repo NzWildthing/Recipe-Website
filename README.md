@@ -7,3 +7,7 @@ Learnt
 - HTML file structure 
 - Adding images through either alternate or relative paths 
 - Making use of ordered and unordered lists 
+
+Access the website with GitHub pages! 
+
+https://nzwildthing.github.io/Recipe-Website/
