@@ -6,3 +6,4 @@ Learnt
 - Linking HTML pages together 
 - HTML file structure 
 - Adding images through either alternate or relative paths 
+- Making use of ordered and unordered lists 
